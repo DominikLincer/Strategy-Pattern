@@ -1,0 +1,7 @@
+D:\YouTube\C# Desing Patterns Video\Traveler\Traveler\bin\Debug\Traveler.exe.config
+D:\YouTube\C# Desing Patterns Video\Traveler\Traveler\bin\Debug\Traveler.exe
+D:\YouTube\C# Desing Patterns Video\Traveler\Traveler\bin\Debug\Traveler.pdb
+D:\YouTube\C# Desing Patterns Video\Traveler\Traveler\obj\Debug\Traveler.csprojResolveAssemblyReference.cache
+D:\YouTube\C# Desing Patterns Video\Traveler\Traveler\obj\Debug\Traveler.csproj.CoreCompileInputs.cache
+D:\YouTube\C# Desing Patterns Video\Traveler\Traveler\obj\Debug\Traveler.exe
+D:\YouTube\C# Desing Patterns Video\Traveler\Traveler\obj\Debug\Traveler.pdb
